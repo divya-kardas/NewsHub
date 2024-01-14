@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+
+   
+    {
+    "source": {
+    "id": null,
+    "name": "247Sports"
+    },
+    "author": "Steve Wiltfong",
+    "title": "Blue-Chip Buzz: The latest on top prospects as morning of the Early Signing Period hits - 247Sports",
+    "description": "News and notes with the three-day Early Signing Period on the horizon.",
+    "url": "https://247sports.com/Article/blue-chip-buzz-the-latest-on-top-prospects-with-less-than-eight-hours-till-signing-day-begins-223546672/",
+    "urlToImage": "https://s3media.247sports.com/Uploads/Assets/221/731/11731221.jpg",
+    "publishedAt": "2023-12-20T05:38:04Z",
+    "content": "We are under eight hours until the three-day Early Signing Period begins and college football prospects can start putting pen to paper and locking in their respective futures. There will be many rush… [+6059 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters India",
+    "title": "Some Muslims around major India temple fearful ahead of opening - Reuters India",
+    "description": null,
+    "url": "https://www.reuters.com/world/india/some-muslims-around-major-india-temple-fearful-ahead-opening-2023-12-20/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-20T05:07:43Z",
+    "content": null
+    },
+   
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Apple Watch 9 sales pause: What's next - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2023/12/19/apple-watch-series-9-sales-pause-patent",
+    "urlToImage": null,
+    "publishedAt": "2023-12-20T02:40:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Homes collapse as earthquake kills more than 100 in China's rural Gansu - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/world/china/magnitude-61-earthquake-strikes-qinghai-china-emsc-2023-12-18/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-20T02:13:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Athletic"
+    },
+    "author": "Kelly Iko",
+    "title": "Ja Morant makes season debut, starts vs. Pelicans: What to know about his return from suspension - The Athletic",
+    "description": "Morant was suspended for the first 25 games of the season for multiple instances of brandishing a gun in public.",
+    "url": "https://theathletic.com/5147182/2023/12/19/ja-morant-nba-grizzlies-return-suspension/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/12/19201229/GettyImages-1868428512-scaled.jpg",
+    "publishedAt": "2023-12-20T02:02:29Z",
+    "content": "NEW ORLEANS A few moments before Tuesday nights GrizzliesPelicans matchup, which marked Ja Morants first time back on an NBA court in more than seven months, the 24-year-old All-Star guard leaned aga… [+9857 chars]"
+    }
+    ]
+    }
