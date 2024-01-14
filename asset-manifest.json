@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/divya-kardas/NewsHub.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/divya-kardas/NewsHub.git/static/js/main.aafea4ae.js",
+    "static/js/787.6643f1c0.chunk.js": "/divya-kardas/NewsHub.git/static/js/787.6643f1c0.chunk.js",
+    "static/media/loading.gif": "/divya-kardas/NewsHub.git/static/media/loading.c1b8565f12c3c976ba01.gif",
+    "index.html": "/divya-kardas/NewsHub.git/index.html",
+    "main.dc4d6ff2.css.map": "/divya-kardas/NewsHub.git/static/css/main.dc4d6ff2.css.map",
+    "main.aafea4ae.js.map": "/divya-kardas/NewsHub.git/static/js/main.aafea4ae.js.map",
+    "787.6643f1c0.chunk.js.map": "/divya-kardas/NewsHub.git/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.aafea4ae.js"
+  ]
+}
